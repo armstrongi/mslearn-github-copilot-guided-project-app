@@ -105,3 +105,13 @@
 /workspaces/mslearn-github-copilot-guided-project-app/AccelerateDevGitHubCopilot/tests/UnitTests/obj/Debug/net8.0/UnitTests.pdb
 /workspaces/mslearn-github-copilot-guided-project-app/AccelerateDevGitHubCopilot/tests/UnitTests/obj/Debug/net8.0/UnitTests.genruntimeconfig.cache
 /workspaces/mslearn-github-copilot-guided-project-app/AccelerateDevGitHubCopilot/tests/UnitTests/obj/Debug/net8.0/ref/UnitTests.dll
+/workspaces/mslearn-github-copilot-guided-project-app/AccelerateDevGitHubCopilot/tests/UnitTests/bin/Debug/net8.0/Microsoft.Extensions.Configuration.dll
+/workspaces/mslearn-github-copilot-guided-project-app/AccelerateDevGitHubCopilot/tests/UnitTests/bin/Debug/net8.0/Microsoft.Extensions.Configuration.Abstractions.dll
+/workspaces/mslearn-github-copilot-guided-project-app/AccelerateDevGitHubCopilot/tests/UnitTests/bin/Debug/net8.0/Microsoft.Extensions.Primitives.dll
+/workspaces/mslearn-github-copilot-guided-project-app/AccelerateDevGitHubCopilot/tests/UnitTests/bin/Debug/net8.0/Library.Infrastructure.dll
+/workspaces/mslearn-github-copilot-guided-project-app/AccelerateDevGitHubCopilot/tests/UnitTests/bin/Debug/net8.0/Library.Infrastructure.pdb
+/workspaces/mslearn-github-copilot-guided-project-app/AccelerateDevGitHubCopilot/tests/UnitTests/bin/Debug/net8.0/Json/Authors.json
+/workspaces/mslearn-github-copilot-guided-project-app/AccelerateDevGitHubCopilot/tests/UnitTests/bin/Debug/net8.0/Json/BookItems.json
+/workspaces/mslearn-github-copilot-guided-project-app/AccelerateDevGitHubCopilot/tests/UnitTests/bin/Debug/net8.0/Json/Books.json
+/workspaces/mslearn-github-copilot-guided-project-app/AccelerateDevGitHubCopilot/tests/UnitTests/bin/Debug/net8.0/Json/Loans.json
+/workspaces/mslearn-github-copilot-guided-project-app/AccelerateDevGitHubCopilot/tests/UnitTests/bin/Debug/net8.0/Json/Patrons.json

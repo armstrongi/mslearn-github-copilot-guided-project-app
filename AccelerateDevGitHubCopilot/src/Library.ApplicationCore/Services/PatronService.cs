@@ -30,6 +30,7 @@ public class PatronService : IPatronService
             await _patronRepository.UpdatePatron(patron);
             return MembershipRenewalStatus.Success;
         } catch (Exception e) {
+            Console.WriteLine("Error: " + e.Message);
             return MembershipRenewalStatus.Error;
         }
     }

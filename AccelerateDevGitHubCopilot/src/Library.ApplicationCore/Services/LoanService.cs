@@ -33,6 +33,7 @@ public class LoanService : ILoanService
         }
         catch (Exception e)
         {
+            Console.WriteLine("Error: " + e.Message);
             return LoanReturnStatus.Error;
         }
     }
@@ -64,6 +65,7 @@ public class LoanService : ILoanService
         }
         catch (Exception e)
         {
+            Console.WriteLine("Error: " + e.Message);
             return LoanExtensionStatus.Error;
         }
     }
